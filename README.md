@@ -1,3 +1,3 @@
 # MyBank
 
-{Discreption}
+{Description}

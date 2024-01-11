@@ -1,3 +1,3 @@
-# MyBank
+# Student Information Manager
 
 {Description}

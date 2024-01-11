@@ -43,9 +43,6 @@ Future improvements:
     Add features for editing student data and deleting student records.
     Allow for more flexibility in course names and grading systems.
 
-Contributors:
-
-    Your Name: Your GitHub Link
 
 Contact:
     huraira.hstu@gmail.com
